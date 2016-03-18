@@ -1,0 +1,10 @@
+Package: compareCorrelations
+Title: Comparing correlations coefficients.
+Version: 0.0.0.9000
+Authors@R: person("Jörn Alexander", "Quent", email = "alexander.quent@rub.de", role = c("aut", "cre"))
+Description:Comparing correlations coefficients.
+Depends:
+    R (>= 3.2.4)
+License: What license is it under?
+LazyData: true
+RoxygenNote: 5.0.1.9000
